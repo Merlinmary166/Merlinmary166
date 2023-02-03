@@ -45,8 +45,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Merlinmary166&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Merlinmary166&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -57,5 +57,4 @@
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-merlin%20mary%20Sabu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:merlinmary888@gmail.com"><img src="https://img.shields.io/badge/-merlinmary888@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/merlin_"><img src="https://img.shields.io/badge/-@mariah.merlin-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
